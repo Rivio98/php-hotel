@@ -55,6 +55,7 @@ $hotels = [
 <body>
     <div class="container mt-5">
         <table class="table table-bordered text-center">
+            <h1 class="mb-5">Dati Hotel</h1>
             <thead class="table-success">
                 <tr>
                     <th>Name</th>
