@@ -64,7 +64,7 @@ $hotels = [
                     <th>Distance to center</th>
                 </tr>
             </thead>
-            <tbody class="table-primary">
+            <tbody class="table-primary table-group-divider">
                 <?php foreach ($hotels as $hotel) { ?>
                     <tr>
                         <td><?php echo $hotel['name'] ?></td>
